@@ -9,3 +9,7 @@
 lista = [6, 3, 12, 7]
 # Na primeira vez que o algoritmo passa, se compara elemento i e j e coloca o menor em primeiro lugar #
 lista = [3, 6, 12, 7]
+# Na segunda vez, se compara o 6 e 12 e não os troca de lugar, pois 6 < 12 #
+lista = [3, 6, 12, 7]
+# Na terceira vez, o algoritmo compara 12 e 7 e os troca de lugar, porque 7 < 12 #
+lista = [3, 6, 7, 12]
