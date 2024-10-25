@@ -13,3 +13,11 @@ lista = [3, 6, 12, 7]
 lista = [3, 6, 12, 7]
 # Na terceira vez, o algoritmo compara 12 e 7 e os troca de lugar, porque 7 < 12 #
 lista = [3, 6, 7, 12]
+
+def bubble_sort(arr):
+    n = len(arr)
+# Para cada elemento i do array
+for i in range(n):
+    #Para cada elemento j do array
+    for j in range(0, n-i-1)
+    
